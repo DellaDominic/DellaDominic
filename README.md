@@ -57,7 +57,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+<!-- ## 📊 Github Stats (Expand to View) 
 
 
 <details> 
@@ -82,7 +82,7 @@
 
 </details>
 
-<br/>
+<br/> -->
 
 ### Let's Connect! <a href="https://linkedin.com/in/de11ad0minic1"><img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="LinkedIn" width="50"></a>
 <p align="center">
