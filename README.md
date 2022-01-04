@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋, Della here. 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DellaDominic.repoName) [![GitHub followers](https://img.shields.io/github/followers/DellaDominic.svg?style=social&label=Follow)](https://github.com/DellaDominic?tab=followers)<br/>
 
-<!--
-**DellaDominic/DellaDominic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## <img src="https://media1.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif?cid=ecf05e47gdsbm6fkb5drs9gel8fwph3hbyreo2xe7z5vavsv&rid=giphy.gif&ct=g" width="30px">&nbsp;***About me***
+
+
+<h2>👀 My github Stats</h2>
+
+<div>
+
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DellaDominic" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
+
+![My github status](https://github-readme-stats.vercel.app/api?username=DellaDominic&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DellaDominic&layout=compact)
+
