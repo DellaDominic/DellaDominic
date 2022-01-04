@@ -4,8 +4,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;JavaScript%20is%20my%20SuperPower;Learning%20Something%20new%20each%20Day&center=true&width=500&height=50"></a>
 </p>
-
-<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DellaDominic&label=Profile%20views&color=0e75b6&style=plastic" alt="DellaDominic" /> </p>
 
 ## 🔥 Streak Stats
