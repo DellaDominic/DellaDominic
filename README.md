@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/200w.webp?cid=ecf05e47xdv22x001ha1txp29yn7v9qml7m9pvjk5r2cqj8g&rid=200w.webp&ct=s" width="35"> <img src="https://media3.giphy.com/media/j6ZhcAyUctYrj2ueBi/200.webp?cid=ecf05e47lqwz8omkmgsqo3etfghmj9aplaoqgigxbrd9u8wu&rid=200.webp&ct=s" width="50">, I'm Della Dominic <img src="https://media2.giphy.com/media/UVG0BN8TOMKkPOJS6e/200w.webp?cid=ecf05e47xdv22x001ha1txp29yn7v9qml7m9pvjk5r2cqj8g&rid=200w.webp&ct=s" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;JavaScript%20is%20my%20SuperPower;Learning%20Something%20new%20each%20Day&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Learning%20Something%20new%20each%20Day&center=true&width=500&height=50"></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DellaDominic&label=Profile%20views&color=0e75b6&style=plastic" alt="DellaDominic" /> </p>
 
