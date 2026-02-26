@@ -8,9 +8,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DellaDominic&label=Profile%20views&color=0e75b6&style=plastic" alt="DellaDominic" /> </p>
 
 ## 🔥 Streak Stats -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DellaDominic&theme=algolia" alt="DellaDominic"  /></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DellaDominic&theme=algolia" alt="DellaDominic"  /></p>
 
-<br/>
+<br/> -->
 
 <!-- ## 📊 Github Stats (Expand to View) 
 
